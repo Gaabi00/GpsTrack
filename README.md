@@ -281,7 +281,7 @@ For help, questions, or to purchase access:
   </a>
 </p>
 
-Support is available in **English** and **Arabic**.
+Support is available in **English**.
 
 ---
 
@@ -292,5 +292,5 @@ GpsTrack is intended for lawful use only — tracking your own vehicles, devices
 ---
 
 <p align="center">
-  <b>GpsTrack</b> — Built with ❤️ using TDLib and OpenStreetMap
+  <b>GpsTrack</b> — 
 </p>
