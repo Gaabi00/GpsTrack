@@ -10,13 +10,17 @@
 </p>
 
 <p align="center">
+  <a href="https://t.me/GpsTrackApp">
+    <img src="https://img.shields.io/badge/Join%20Channel-@GpsTrackApp-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Channel"/>
+  </a>
+  &nbsp;
   <a href="https://t.me/White_List_111_bot">
-    <img src="https://img.shields.io/badge/Buy%20Now-Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Buy on Telegram"/>
+    <img src="https://img.shields.io/badge/Get%20the%20App-@White__List__111__bot-2CA5E0?style=for-the-badge&logo=telegram" alt="Get the App"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Android"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Price-25%20USDT-26A17B?style=for-the-badge&logo=tether" alt="Price"/>
+  <img src="https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge" alt="Free"/>
 </p>
 
 ---
@@ -25,7 +29,7 @@
 
 GpsTrack is an Android app that lets you track one or more GPS devices in real time on an interactive map. It uses **Telegram** as the communication layer — meaning your tracker sends location updates through a Telegram bot, and the app picks them up instantly.
 
-No custom servers. No subscriptions. One-time purchase, lifetime access.
+No custom servers. No subscriptions. Completely free.
 
 ---
 
@@ -90,39 +94,40 @@ The app also supports native **Telegram Live Location** messages — no tracker 
 
 ---
 
-## 💰 How to Buy
+## 🎁 Get the App — It's Free!
 
-GpsTrack is a **one-time purchase of 25 USDT** — no recurring fees, lifetime access.
+Getting GpsTrack is simple and completely free. All you need to do is join our Telegram channel.
 
-### Step 1 — Contact the bot
+### Step 1 — Join the channel
 
-Open Telegram and start a chat with **[@White_List_111_bot](https://t.me/White_List_111_bot)**
+<p align="center">
+  <a href="https://t.me/GpsTrackApp">
+    <img src="https://img.shields.io/badge/Join-@GpsTrackApp-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Channel"/>
+  </a>
+</p>
+
+### Step 2 — Open the bot
+
+Start a chat with **[@White_List_111_bot](https://t.me/White_List_111_bot)**
 
 <p align="center">
   <img src="screenshots/bot_start.jpg" alt="Bot Start" width="300"/>
 </p>
 
-### Step 2 — Send `/buy`
+### Step 3 — Send `/verify`
 
-The bot will give you a unique payment amount and wallet address.
+The bot checks that you joined the channel and instantly sends you the APK file.
 
 <p align="center">
-  <img src="screenshots/bot_buy.jpg" alt="Bot Buy" width="300"/>
+  <img src="screenshots/bot_verify.jpg" alt="Bot Verify" width="300"/>
 </p>
 
-### Step 3 — Send USDT TRC20
+### Step 4 — Install and enjoy
 
-Send the exact amount shown to the wallet address provided.
-
-> ⚠️ **Important:** Select **Tether (TRC20)** as the network when sending.
-> Sending on the wrong network will result in lost funds.
-
-### Step 4 — Receive your APK
-
-Payment is detected automatically within 2–4 minutes. The bot sends you the APK file directly in Telegram.
+That's it. Lifetime access, no payment required.
 
 <p align="center">
-  <img src="screenshots/bot_confirmed.jpg" alt="Payment Confirmed" width="300"/>
+  <img src="screenshots/bot_confirmed.jpg" alt="APK Received" width="300"/>
 </p>
 
 ---
@@ -168,11 +173,7 @@ Since GpsTrack is distributed outside the Play Store, you need to allow installa
 2. Enter the verification code sent to your Telegram app
 3. Enter your 2FA password if you have one enabled
 
-> ℹ️ The app logs in using the **same Telegram account** you used to purchase. This is how your license is verified.
-
-### License Check
-
-After login, the app automatically verifies your license. If your account is recognized you go straight to the map. If not, contact **[@White_List_111_bot](https://t.me/White_List_111_bot)**.
+> ℹ️ The app logs in using the **same Telegram account** you used to verify. This is how your access is confirmed.
 
 ---
 
@@ -264,16 +265,28 @@ Go to Settings → Apps → GpsTrack → Battery → select **Unrestricted**. Th
 Open a conversation with your tracker bot in the official Telegram app at least once before using GpsTrack.
 
 **License screen appears after login**
-Your Telegram account is not whitelisted. Contact [@White_List_111_bot](https://t.me/White_List_111_bot) with your Telegram user ID (get it from [@userinfobot](https://t.me/userinfobot)).
+Make sure you completed the /verify step in [@White_List_111_bot](https://t.me/White_List_111_bot). If you did and still see this screen, contact support.
 
 **Map shows no tiles**
 Check your internet connection. The map requires an active connection to load.
 
 ---
 
+## 💛 Support the Project
+
+GpsTrack is free. If you find it useful and want to support development, you can send a donation in USDT:
+
+```
+TYazssaLsqyCHxR2RBPqSMnqm8QvfvsiuY
+```
+
+> ⚠️ Network: **Tether (TRC20)** assets only. Any amount is appreciated 🙏
+
+---
+
 ## 📞 Support
 
-For help, questions, or to purchase access:
+For help or questions:
 
 <p align="center">
   <a href="https://t.me/White_List_111_bot">
@@ -292,5 +305,5 @@ GpsTrack is intended for lawful use only — tracking your own vehicles, devices
 ---
 
 <p align="center">
-  <b>GpsTrack</b> — 
+  <b>GpsTrack</b> — Built with ❤️ using TDLib and OpenStreetMap
 </p>
