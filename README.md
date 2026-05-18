@@ -1,4 +1,3 @@
-cat > /home/claude/gpstrack_readme/README.md << 'EOF'
 # 📍 GpsTrack — Real-Time GPS Tracking via Telegram
 
 <p align="center">
@@ -313,8 +312,3 @@ Support is available in **English**.
 GpsTrack is intended for lawful use only — tracking your own vehicles, devices, or dependents with their knowledge and consent. The developer is not responsible for any misuse of the application.
 
 ---
-
-<p align="center">
-  <b>GpsTrack</b> — Built with ❤️ using TDLib and OpenStreetMap
-</p>
-EOF
