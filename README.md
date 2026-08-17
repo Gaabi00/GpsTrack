@@ -25,7 +25,7 @@
 
 GpsTrack is an Android app that lets you track one or more GPS devices in real time on an interactive map. It uses **Telegram** as the communication layer — meaning your tracker sends location updates through a Telegram bot, and the app picks them up instantly.
 
-No custom servers. No recurring fees. Track unlimited devices, completely free.
+No custom servers. No recurring fees. No ADS. Track unlimited devices, completely free.
 
 ---
 
@@ -90,7 +90,7 @@ The app also supports native **Telegram Live Location** messages — no tracker 
 
 ---
 
-## 🎁 Get the App — 100% Free
+## 🎁 Get the App — 100% Free - No ADS
 
 GpsTrack is completely free to download, with no limit on the number of devices you can track — forever.
 
