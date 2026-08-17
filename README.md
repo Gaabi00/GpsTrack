@@ -16,7 +16,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Android"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/First%20Device-Free-brightgreen?style=for-the-badge" alt="Free"/>
+  <img src="https://img.shields.io/badge/Unlimited%20Devices-Free-brightgreen?style=for-the-badge" alt="Free"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 GpsTrack is an Android app that lets you track one or more GPS devices in real time on an interactive map. It uses **Telegram** as the communication layer — meaning your tracker sends location updates through a Telegram bot, and the app picks them up instantly.
 
-No custom servers. No recurring fees. Your first device is always free.
+No custom servers. No recurring fees. Track unlimited devices, completely free.
 
 ---
 
@@ -37,7 +37,7 @@ No custom servers. No recurring fees. Your first device is always free.
 | 🗺️ Interactive Map | Powered by OpenStreetMap — works worldwide |
 | 📜 Location History | Scrub through the full day timeline, second by second |
 | 🔋 Battery & Speed | See battery level and speed from compatible trackers |
-| 📍 Multiple Devices | Track several devices simultaneously |
+| 📍 Unlimited Devices | Track as many devices as you want, simultaneously |
 | 🔔 Geofence Alerts | Get notified when a device enters or exits a zone |
 | 🔒 Map Lock | Lock the map to follow a device automatically |
 | 🚀 Speed Units | Switch between km/h and mph |
@@ -90,9 +90,9 @@ The app also supports native **Telegram Live Location** messages — no tracker 
 
 ---
 
-## 🎁 Get the App — First Device Free
+## 🎁 Get the App — 100% Free
 
-GpsTrack is free to download and your first device slot is included at no cost — forever.
+GpsTrack is completely free to download, with no limit on the number of devices you can track — forever.
 
 ### Step 1 — Register via the bot
 
@@ -113,24 +113,6 @@ The bot sends you the APK file directly in Telegram.
 ### Step 3 — Install and enjoy
 
 Install the APK, log in with the same Telegram account, and start tracking.
-
----
-
-## 📦 Need More Devices?
-
-Additional device slots are a **one-time purchase** — no recurring fees. Buy once, own forever.
-
-| Bundle | Price |
-|---|---|
-| 1 device | $2.00 USDT |
-| 5 devices | $8.00 USDT |
-| 10 devices | $14.00 USDT |
-| 20 devices | $24.00 USDT |
-| 50 devices | $50.00 USDT |
-
-To purchase, open **[@White_List_111_bot](https://t.me/White_List_111_bot)** and send `/buy`.
-
-> ⚠️ Payments are in **USDT via TRON (TRC20)** network.
 
 ---
 
@@ -175,7 +157,7 @@ Since GpsTrack is distributed outside the Play Store, you need to allow installa
 2. Enter the verification code sent to your Telegram app
 3. Enter your 2FA password if you have one enabled
 
-> ℹ️ The app logs in using the **same Telegram account** you used to register with the bot. This is how your device limit is verified.
+> ℹ️ The app logs in using the **same Telegram account** you used to register with the bot. This is how your registration is verified.
 
 ---
 
@@ -191,8 +173,6 @@ Since GpsTrack is distributed outside the Play Store, you need to allow installa
 2. Tap **+** to add a new device
 3. Tap the device name to rename it
 4. Tap **Pick Chat** to assign your tracker's Telegram chat
-
-> ℹ️ If you have reached your device limit, the app will notify you and direct you to the bot to purchase more slots.
 
 ### Live Tracking
 
@@ -271,9 +251,6 @@ Open a conversation with your tracker bot in the official Telegram app at least 
 **Access screen appears after login**
 Make sure you registered with [@White_List_111_bot](https://t.me/White_List_111_bot) by sending `/start` first.
 
-**I hit the device limit**
-Open [@White_List_111_bot](https://t.me/White_List_111_bot) and send `/buy` to purchase additional device slots.
-
 **Map shows no tiles**
 Check your internet connection. The map requires an active connection to load.
 
@@ -284,8 +261,11 @@ Check your internet connection. The map requires an active connection to load.
 If you find GpsTrack useful and want to support development, you can send a donation in USDT:
 
 ```
+Trust Wallet
 TYazssaLsqyCHxR2RBPqSMnqm8QvfvsiuY
 ```
+Binance Wallet
+TUFC9s6Sf8npGnJh6jA9YVFjCD5m6X2Lwh
 
 > ⚠️ Network: **TRON (TRC20)** only. Any amount is appreciated 🙏
 
@@ -295,7 +275,7 @@ Or send `/donate` to the bot.
 
 ## 📞 Support
 
-For help, questions, or purchases:
+For help or questions:
 
 <p align="center">
   <a href="https://t.me/White_List_111_bot">
