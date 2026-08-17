@@ -259,6 +259,7 @@ Check your internet connection. The map requires an active connection to load.
 ## 💛 Support the Project
 
 If you find GpsTrack useful and want to support development, you can send a donation in USDT:
+
 Trust Wallet
 ```
 
