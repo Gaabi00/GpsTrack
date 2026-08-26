@@ -260,13 +260,7 @@ Check your internet connection. The map requires an active connection to load.
 
 If you find GpsTrack useful and want to support development, you can send a donation in USDT:
 
-Trust Wallet
-```
-
-TYazssaLsqyCHxR2RBPqSMnqm8QvfvsiuY
-```
 Binance Wallet
-
 ```
 TUFC9s6Sf8npGnJh6jA9YVFjCD5m6X2Lwh
 ```
